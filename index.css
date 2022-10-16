@@ -1,0 +1,13 @@
+/* Write your code here. */
+.bg {
+    background-color: #0f172a;
+    height: 100vh;
+}
+
+.heading {
+    color: white;
+    font-size: 50px;
+    font-family: "Roboto";
+    text-align: center;
+}
+
